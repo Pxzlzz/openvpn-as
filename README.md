@@ -1,5 +1,5 @@
 # openvpn-as
-An install script for openvpn-as
+An easy automatic installer for OpenVPN AS on Ubuntu 20.04 systems.
 
-Install:
+Install CMD:
 bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/openvpn-as/main/main.sh)
