@@ -7,6 +7,7 @@
 <h3>An automatic installer for OpenVPN-AS.</h3>
 
 Install CMD:
+</div>
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/openvpn-as/main/main.sh)
 ```
