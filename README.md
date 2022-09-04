@@ -2,9 +2,9 @@
 
 <img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/IDontCodee/Incognito/main/static/index.svg">
 
-<h1>Incognito</h1>
+<h1>OpenVPN-AS</h1>
 
-<h3>Access the world wide web</h3>
+<h3>An automatic installer for OpenVPN-AS.</h3>
 
 Install CMD:
 ```bash
