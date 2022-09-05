@@ -1,12 +1,8 @@
 <div align="center">
 
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/Pxzlzz/openvpn-as/main/assets/logo-openvpn.png">
+<img style="border-radius:50%" height="150px" src="https://tlauncher.org/fav-icon-512.png">
 
-<h1>OpenVPN-AS</h1>
+<h1>TLauncher</h1>
 
-<h3>An automatic installer for OpenVPN-AS.</h3>
-
-Install CMD:
-```bash
-bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/openvpn-as/main/main.sh)
-```
+<h3>An automatic install for TLauncher on macOS based systems.</h3>
+</div>
