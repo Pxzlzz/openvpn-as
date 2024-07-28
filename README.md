@@ -7,5 +7,5 @@
 ### Install OpenVPN-AS:
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/openvpn-as/main/main.sh)
+bash <(curl -s https://raw.githubusercontent.com/pxzlz-ctrl/openvpn-as/main/main.sh)
 ```
